@@ -1,6 +1,6 @@
-# YesNoMaybeREADME
+# Yes No Maybe
 
-##Yes No Maybe.pdf## shows the Web and Mobile App Screenshots.
+*Yes No Maybe.pdf* shows the Web and Mobile App Screenshots.
 
 Watch the full demo here: https://drive.google.com/file/d/0B7S5-ZFEscw_SERnbENOS1U1ZDQ/view?usp=sharing
 
