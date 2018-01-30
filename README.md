@@ -7,14 +7,11 @@ Developed a solution to combat lack of in-class student participation as an iOS 
 
 **About the App**: https://drive.google.com/file/d/0B7S5-ZFEscw_VHBoWlJ0OUYwZmc/view?usp=sharing
 
-<hr>
 
 **Web and Mobile App Screenshots**: Yes No Maybe.pdf
 
-<hr>
 
 **Watch the full demo here**: https://drive.google.com/file/d/0B7S5-ZFEscw_b0VudmdtZ1ppN2c/view?usp=sharing (*The Left Interface is the Professor Interface, whereas the Right Interface is the Student Interface*)
 
-<hr>
 
 If you are interested in looking at the source code, please feel free to email me at: prateekbhatia535@gmail.com
