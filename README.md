@@ -11,4 +11,4 @@ Developed a solution to combat lack of in-class student participation as an iOS 
 
 **Watch the full demo here**: https://drive.google.com/file/d/0B7S5-ZFEscw_b0VudmdtZ1ppN2c/view?usp=sharing (*The Left Interface is the Professor Interface, whereas the Right Interface is the Student Interface*)
 
-If you are interested in looking at the source code, please feel free to email me at: prateekb@usc.edu
+If you are interested in looking at the source code, please feel free to email me at: prateekbhatia535@gmail.com
